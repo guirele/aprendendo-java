@@ -34,7 +34,7 @@ public class AprendendoSwing {
                   "Cancelado",
                   JOptionPane.WARNING_MESSAGE);}
 
-       else if (texto.isEmpty()) {
+       else if (texto.trim().isEmpty()) {
             JOptionPane.showMessageDialog(null,
                     "Voce nao escreveu nada",
                     "Error",
