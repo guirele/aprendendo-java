@@ -1,19 +1,13 @@
-#Aprendendo Java
+# Oque estou aprendendo em Java
 
 Repositório com exercícios e estudos de Java:
 
 #Conteúdo
 
-Hello World
+#Hello World
+# Lógica básica
+# Condicionais
+# if/else
+# Swings
+# Strings
 
-Lógica básica
-
-Condicionais
-
-Laços
-
-Swings
-
-#Status
-
-Em aprendizado...
