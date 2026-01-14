@@ -1,8 +1,9 @@
-# Oque estou aprendendo em Java
+# What I'm learning in Java
+I am learning Java, and below are the topics I am learning and focusing on
 
-Repositório com exercícios e estudos de Java:
 
-# Conteúdo
+
+# Content
 
 
 ### Lógica básica
