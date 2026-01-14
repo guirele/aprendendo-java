@@ -2,12 +2,12 @@
 
 Repositório com exercícios e estudos de Java:
 
-#Conteúdo
+# Conteúdo
 
-#Hello World
-# Lógica básica
-# Condicionais
-# if/else
-# Swings
-# Strings
+
+## Lógica básica
+## Condicionais
+## if/else
+## Swings
+## Strings
 
