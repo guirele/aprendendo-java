@@ -6,7 +6,7 @@ I am learning Java, and below are the topics I am learning and focusing on
 # Content
 
 
-### Lógica básica
+### Programming Logic
 ### Condicionais
 ### if/else
 ### Swings
