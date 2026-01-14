@@ -1,3 +1,5 @@
+// THIS CODE IS IN PORTUGUESE
+
 import javax.swing.*;
 import java.awt.*;
 
